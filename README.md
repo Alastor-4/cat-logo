@@ -1,2 +1,0 @@
-# cat-logo
-Fotos
